@@ -1,0 +1,3 @@
+kustomize:
+  images:
+  - katainaka0503/argocd-image-updater-test-app:v33
